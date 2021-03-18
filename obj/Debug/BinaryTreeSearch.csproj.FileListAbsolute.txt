@@ -1,0 +1,7 @@
+E:\CSharp\LearningProjects\BinaryTreeSearch\bin\Debug\BinaryTreeSearch.exe.config
+E:\CSharp\LearningProjects\BinaryTreeSearch\bin\Debug\BinaryTreeSearch.exe
+E:\CSharp\LearningProjects\BinaryTreeSearch\bin\Debug\BinaryTreeSearch.pdb
+E:\CSharp\LearningProjects\BinaryTreeSearch\obj\Debug\BinaryTreeSearch.csprojAssemblyReference.cache
+E:\CSharp\LearningProjects\BinaryTreeSearch\obj\Debug\BinaryTreeSearch.csproj.CoreCompileInputs.cache
+E:\CSharp\LearningProjects\BinaryTreeSearch\obj\Debug\BinaryTreeSearch.exe
+E:\CSharp\LearningProjects\BinaryTreeSearch\obj\Debug\BinaryTreeSearch.pdb
